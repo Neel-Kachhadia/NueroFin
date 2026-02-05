@@ -15,7 +15,7 @@ NeuroFin is an AI-powered financial planning platform designed to provide person
 1. Clone the repository  
 ```
 git clone https://github.com/NASHG80/mumbaihacks-neuroFin.git
-cd mumbaihacks-neuroFin
+cd NueroFin
 ```
 2. Install dependencies
 ```
